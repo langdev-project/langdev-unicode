@@ -1,0 +1,25 @@
+# Date: 30 August 2016
+# The LANGDEV Project
+
+# ================================================
+
+# Block (blk)
+
+blk; Bencode                          ; Bencode
+blk; Bencode_Sup_Punctuation          ; Bencode_Supplemental_Punctuation
+blk; Jastugay_Syllabary               ; Jastugay_Syllabary
+blk; Jastugay_Punctuation             ; Jastugay_Punctuation
+blk; Jastugay_Combining_Marks         ; Jastugay_Combining_Marks
+blk; Runic_Sevensi                    ; Runic_Sevensi
+blk; Sevensi                          ; Sevensi
+blk; Sevensi_Marks                    ; Sevensi_Marks_and_Punctuation
+blk; Sevensi_PF                       ; Sevensi_Presentational_Forms
+
+# Script (sc)
+
+sc ; Bkde                             ; Bencode
+sc ; Jsta                             ; Jastugay
+sc ; Sevr                             ; Runic_Sevensi
+sc ; Sevi                             ; Sevensi
+
+# EOF
